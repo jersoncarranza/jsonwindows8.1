@@ -1,0 +1,1 @@
+c:\users\patricio\documents\visual studio 2013\Projects\Snatly.Client\Snatly.Client\Snatly.Client.csproj;neutral
